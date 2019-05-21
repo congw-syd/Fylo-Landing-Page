@@ -169,7 +169,8 @@ h1{
 }
 #item-h{
   grid-area: left;
-  place-self: center;
+  justify-self: end;
+  align-self: center;
 }
 #item-i{
   grid-area: middle;
@@ -182,7 +183,8 @@ h4{
 }
 #item-j{
   grid-area: right;
-  place-self: center;
+  justify-self: start;
+  align-self: center;
   max-width: 350px;
 }
 ul {
