@@ -301,12 +301,14 @@ ul {
     }
     #item-h{
       padding-top: 3rem;
+      place-self: center;
     }
     .line1{
       margin-left: 2rem;
     }
     #item-j {
      margin-left: 2rem;
+     place-self: center;
     }
     #item-j #join {
       width: 100%;
